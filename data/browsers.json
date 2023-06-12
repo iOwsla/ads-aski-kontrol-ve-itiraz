@@ -1,0 +1,24 @@
+{
+  "1": {
+    "99515677": {
+      "port": 49920,
+      "wsEndpoint": "/devtools/browser/3e09007a-7925-48c2-b80c-4b1f7d2da4d5"
+    },
+    "99516005": {
+      "port": 65186,
+      "wsEndpoint": "/devtools/browser/fe65a068-7e44-4bc0-bbeb-a41f8712c704"
+    },
+    "99516035": {
+      "port": 65237,
+      "wsEndpoint": "/devtools/browser/d93d531c-525c-4eeb-b588-eaa511672561"
+    },
+    "99516718": {
+      "port": 60844,
+      "wsEndpoint": "/devtools/browser/60cc2550-a636-46e9-ac64-bc920533b6dc"
+    },
+    "99516758": {
+      "port": 60934,
+      "wsEndpoint": "/devtools/browser/5c81d871-70ff-40e4-ae12-e7461ddb7ba1"
+    }
+  }
+}

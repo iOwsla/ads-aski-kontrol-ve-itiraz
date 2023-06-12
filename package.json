@@ -1,0 +1,24 @@
+{
+  "name": "ads-aski-kontrol-ve-itiraz",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "APP.js",
+  "scripts": {
+    "start": " node .\\app.js {\"ip\":\"91.241.49.33\",\"port\":\"17385\",\"username\":\"waewyeni\",\"password\":\"waewyeni\"} 1 15\n"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "colors": "^1.4.0",
+    "express": "^4.18.2",
+    "gologin": "^2.0.11",
+    "json-beautify": "^1.1.1",
+    "puppeteer-cluster": "^0.23.0",
+    "puppeteer-core": "^20.5.0",
+    "puppeteer-recaptcha-solver": "^1.0.1",
+    "qs": "^6.11.2"
+  }
+}
